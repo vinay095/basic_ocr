@@ -1,0 +1,272 @@
+{
+  "ocr_type": "receipts",
+  "request_id": "P_152.59.91.149_mdhcjzch_z3d",
+  "ref_no": "oct_python_123",
+  "file_name": "invoice2.jpg",
+  "request_received_on": 1753358793137,
+  "success": true,
+  "image_width": 568,
+  "image_height": 1024,
+  "image_rotation": 0,
+  "recognition_completed_on": 1753358794533,
+  "receipts": [
+    {
+      "merchant_name": "Save money. Live better. Walmart",
+      "merchant_address": "( 940) 692 - 0771",
+      "merchant_phone": "+1 940-692-0771",
+      "merchant_website": null,
+      "merchant_tax_reg_no": null,
+      "merchant_company_reg_no": null,
+      "region": null,
+      "mall": null,
+      "country": "US",
+      "state": "TX",
+      "city": "WICHITA FALLS",
+      "zip": "76308",
+      "receipt_no": "06624",
+      "date": null,
+      "time": null,
+      "items": [
+        {
+          "amount": 2.67,
+          "category": null,
+          "description": "PC 2P NIPPLE 007874212396",
+          "flags": " X",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 13.47,
+          "category": null,
+          "description": "0-78742-1236 007874212365",
+          "flags": " X",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 5.47,
+          "category": null,
+          "description": "ALWAYS PAD 003700030495",
+          "flags": " X",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 3.47,
+          "category": null,
+          "description": "ALK AA-6001280047855",
+          "flags": " X",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 6.96,
+          "category": null,
+          "description": "PANTY001461428215",
+          "flags": " X",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 21.0,
+          "category": null,
+          "description": "SIM ADV 1.45 007007453360 F",
+          "flags": " N",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        }
+      ],
+      "currency": "USD",
+      "total": 55.68,
+      "subtotal": 53.04,
+      "tax": 2.64,
+      "service_charge": null,
+      "tip": null,
+      "payment_method": "credit_card",
+      "payment_details": null,
+      "credit_card_type": "master",
+      "credit_card_number": null,
+      "ocr_text": "    Walmart\n    Save money. Live better.\n               Walmart\n        MANAGER ALAN DONALDSON\n          ( 940) 692 - 0771\n        WICHITA FALLS, TX 76308\n ST# 1148 OP# 00007879 TE# 12 TR# 06624\n PC 2P NIPPLE 007874212396      2.67 X\n 0-78742-1236 007874212365     13.47 X\n ALWAYS PAD 003700030495        5.47 X\n ALK AA-6    001280047855       3.47 X\n PANTY       001461428215       6.96 X\n SIM ADV 1.45 007007453360 F   21.00 N\n                  SUBTOTAL     53.04\n         TAX 1   8.250 %        2.64\n                     TOTAL     55.68\n                MCARD TEND     55.68\n ACCOUNT # 5852\n APPROVAL # 240615\n                CHANGE DUE      0.00\n    # ITEMS SOLD 6\n    TC# 5293 0107 0706 0657 1090\n        We gladly accept valid\n   manufacturer & internet coupons.\n        04/20/11     20:29:48\n         *** CUSTOMER COPY ***",
+      "ocr_confidence": 98.26,
+      "width": 453,
+      "height": 798,
+      "avg_char_width": 11.8877,
+      "avg_line_height": 18.526,
+      "conf_amount": 74,
+      "source_locations": {
+        "total": [
+          [
+            {
+              "x": 418,
+              "y": 568
+            },
+            {
+              "x": 481,
+              "y": 567
+            },
+            {
+              "x": 481,
+              "y": 584
+            },
+            {
+              "x": 418,
+              "y": 585
+            }
+          ]
+        ],
+        "receipt_no": [
+          [
+            {
+              "x": 440,
+              "y": 373
+            },
+            {
+              "x": 508,
+              "y": 373
+            },
+            {
+              "x": 508,
+              "y": 392
+            },
+            {
+              "x": 440,
+              "y": 392
+            }
+          ]
+        ],
+        "subtotal": [
+          [
+            {
+              "x": 417,
+              "y": 524
+            },
+            {
+              "x": 485,
+              "y": 524
+            },
+            {
+              "x": 485,
+              "y": 542
+            },
+            {
+              "x": 417,
+              "y": 542
+            }
+          ]
+        ],
+        "merchant_name": [
+          [
+            {
+              "x": 225,
+              "y": 287
+            },
+            {
+              "x": 317,
+              "y": 287
+            },
+            {
+              "x": 317,
+              "y": 305
+            },
+            {
+              "x": 225,
+              "y": 305
+            }
+          ]
+        ],
+        "doc": [
+          [
+            {
+              "x": 29,
+              "y": 133
+            },
+            {
+              "x": 527,
+              "y": 133
+            },
+            {
+              "x": 527,
+              "y": 1010
+            },
+            {
+              "x": 29,
+              "y": 1010
+            }
+          ]
+        ],
+        "tax": [
+          [
+            {
+              "x": 429,
+              "y": 546
+            },
+            {
+              "x": 482,
+              "y": 545
+            },
+            {
+              "x": 482,
+              "y": 562
+            },
+            {
+              "x": 429,
+              "y": 563
+            }
+          ]
+        ],
+        "merchant_address": [
+          [
+            {
+              "x": 160,
+              "y": 329
+            },
+            {
+              "x": 393,
+              "y": 329
+            },
+            {
+              "x": 393,
+              "y": 348
+            },
+            {
+              "x": 160,
+              "y": 348
+            }
+          ]
+        ],
+        "merchant_phone": [
+          [
+            {
+              "x": 148,
+              "y": 328
+            },
+            {
+              "x": 405,
+              "y": 328
+            },
+            {
+              "x": 405,
+              "y": 349
+            },
+            {
+              "x": 148,
+              "y": 349
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}
